@@ -1,3 +1,6 @@
 # Dataset files
 Data_Dictionary.xlsx
 loan.csv
+
+# Checkpoints
+.ipynb_checkpoints/
